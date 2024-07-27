@@ -1,0 +1,11 @@
+D:\Diploma\C#\OOP\Route\Exam\ExamUi\ExamLib\obj\Debug\net8.0\ExamLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diploma\C#\OOP\Route\Exam\ExamUi\ExamLib\obj\Debug\net8.0\ExamLib.AssemblyInfoInputs.cache
+D:\Diploma\C#\OOP\Route\Exam\ExamUi\ExamLib\obj\Debug\net8.0\ExamLib.AssemblyInfo.cs
+D:\Diploma\C#\OOP\Route\Exam\ExamUi\ExamLib\obj\Debug\net8.0\ExamLib.csproj.CoreCompileInputs.cache
+D:\Diploma\C#\OOP\Route\Exam\ExamUi\ExamLib\bin\Debug\net8.0\ExamLib.deps.json
+D:\Diploma\C#\OOP\Route\Exam\ExamUi\ExamLib\bin\Debug\net8.0\ExamLib.dll
+D:\Diploma\C#\OOP\Route\Exam\ExamUi\ExamLib\bin\Debug\net8.0\ExamLib.pdb
+D:\Diploma\C#\OOP\Route\Exam\ExamUi\ExamLib\obj\Debug\net8.0\ExamLib.dll
+D:\Diploma\C#\OOP\Route\Exam\ExamUi\ExamLib\obj\Debug\net8.0\refint\ExamLib.dll
+D:\Diploma\C#\OOP\Route\Exam\ExamUi\ExamLib\obj\Debug\net8.0\ExamLib.pdb
+D:\Diploma\C#\OOP\Route\Exam\ExamUi\ExamLib\obj\Debug\net8.0\ref\ExamLib.dll

@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Diploma\\C#\\OOP\\Route\\Exam\\ExamUi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4C0C54-5578-48B8-9083-C2AFDA944BD6}|ExamLib\\ExamLib.csproj|d:\\diploma\\c#\\oop\\route\\exam\\examui\\examlib\\classes\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4C0C54-5578-48B8-9083-C2AFDA944BD6}|ExamLib\\ExamLib.csproj|solutionrelative:examlib\\classes\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827C18A3-3463-4A2B-87A5-D825FD2F6F9A}|ExamUi\\ExamUi.csproj|d:\\diploma\\c#\\oop\\route\\exam\\examui\\examui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827C18A3-3463-4A2B-87A5-D825FD2F6F9A}|ExamUi\\ExamUi.csproj|solutionrelative:examui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4C0C54-5578-48B8-9083-C2AFDA944BD6}|ExamLib\\ExamLib.csproj|d:\\diploma\\c#\\oop\\route\\exam\\examui\\examlib\\classes\\questions\\mcq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4C0C54-5578-48B8-9083-C2AFDA944BD6}|ExamLib\\ExamLib.csproj|solutionrelative:examlib\\classes\\questions\\mcq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4C0C54-5578-48B8-9083-C2AFDA944BD6}|ExamLib\\ExamLib.csproj|d:\\diploma\\c#\\oop\\route\\exam\\examui\\examlib\\classes\\questions\\truefalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4C0C54-5578-48B8-9083-C2AFDA944BD6}|ExamLib\\ExamLib.csproj|solutionrelative:examlib\\classes\\questions\\truefalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4C0C54-5578-48B8-9083-C2AFDA944BD6}|ExamLib\\ExamLib.csproj|d:\\diploma\\c#\\oop\\route\\exam\\examui\\examlib\\examvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4C0C54-5578-48B8-9083-C2AFDA944BD6}|ExamLib\\ExamLib.csproj|solutionrelative:examlib\\examvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrueFalse.cs",
+              "DocumentMoniker": "D:\\Diploma\\C#\\OOP\\Route\\Exam\\ExamUi\\ExamLib\\Classes\\Questions\\TrueFalse.cs",
+              "RelativeDocumentMoniker": "ExamLib\\Classes\\Questions\\TrueFalse.cs",
+              "ToolTip": "D:\\Diploma\\C#\\OOP\\Route\\Exam\\ExamUi\\ExamLib\\Classes\\Questions\\TrueFalse.cs",
+              "RelativeToolTip": "ExamLib\\Classes\\Questions\\TrueFalse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:28:33.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MCQ.cs",
+              "DocumentMoniker": "D:\\Diploma\\C#\\OOP\\Route\\Exam\\ExamUi\\ExamLib\\Classes\\Questions\\MCQ.cs",
+              "RelativeDocumentMoniker": "ExamLib\\Classes\\Questions\\MCQ.cs",
+              "ToolTip": "D:\\Diploma\\C#\\OOP\\Route\\Exam\\ExamUi\\ExamLib\\Classes\\Questions\\MCQ.cs",
+              "RelativeToolTip": "ExamLib\\Classes\\Questions\\MCQ.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwBgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:14:22.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExamValidation.cs",
+              "DocumentMoniker": "D:\\Diploma\\C#\\OOP\\Route\\Exam\\ExamUi\\ExamLib\\ExamValidation.cs",
+              "RelativeDocumentMoniker": "ExamLib\\ExamValidation.cs",
+              "ToolTip": "D:\\Diploma\\C#\\OOP\\Route\\Exam\\ExamUi\\ExamLib\\ExamValidation.cs",
+              "RelativeToolTip": "ExamLib\\ExamValidation.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAswDAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:12:30.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\Diploma\\C#\\OOP\\Route\\Exam\\ExamUi\\ExamLib\\Classes\\Subject.cs",
+              "RelativeDocumentMoniker": "ExamLib\\Classes\\Subject.cs",
+              "ToolTip": "D:\\Diploma\\C#\\OOP\\Route\\Exam\\ExamUi\\ExamLib\\Classes\\Subject.cs",
+              "RelativeToolTip": "ExamLib\\Classes\\Subject.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAkwCoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:08:25.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Diploma\\C#\\OOP\\Route\\Exam\\ExamUi\\ExamUi\\Program.cs",
+              "RelativeDocumentMoniker": "ExamUi\\Program.cs",
+              "ToolTip": "D:\\Diploma\\C#\\OOP\\Route\\Exam\\ExamUi\\ExamUi\\Program.cs",
+              "RelativeToolTip": "ExamUi\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwBEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:04:20.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

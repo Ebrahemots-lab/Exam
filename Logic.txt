@@ -1,0 +1,49 @@
+Examination System
+
+Notes:
+System has two types of exams (Final and Practical)
+
+
+
+Logic :
+Classes :
+Question => (Header - Body - Mark)
+
+Answers (AnswerId , AnswerText)
+
+TrueFalse : Question - Answers[] (user) - rightAnswers[] (real answers)
+
+MCQ : Question - Answers[] (user) - rightAnswers[] (real answers)
+
+Exam (Time of Exam - Number of questions)
+
+Final Exam : Exam 
+Practical Exam : Exam
+
+Note: Show Exam Functionality that its implementations will be
+different for each exam based on its type.
+Subject : (id - Name - Exam of the subject)
+
+Note: Practical Exam Shows the right answer after finishing the Exam.
+Note: Final Exam Shows the Questions, Answers and Grade. 
+
+
+Main:
+Check if the user choose Final or Practical 
+- Redirect him to Function that create exam
+- Display the method that will create the question  based on the number of the Questions that you Enterd
+- choose from MCQ AND true- false 
+- if mcq ask for the question and 3 choises then choose the right answer 
+- if true-false put the question the get the right answer 
+--both save them to the arrays [Questions-Right answers]
+--Do some validation on the inputs
+
+--Ask him to start the exam 
+then print the questions
+then take the answers form the user 
+then Validate it 
+then print the Degree 
+
+
+
+
